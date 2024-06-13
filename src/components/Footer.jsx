@@ -11,8 +11,8 @@ const Footer = () => {
         <h5>Follow Us</h5>
         <div>
             <a href="https://www.youtube.com/" target={"blank"}>Youtube</a>
-            <a href="" target={"blank"}>Instagram</a>
-            <a href="" target={"blank"}>Github</a>
+            <a href="https://www.instagram.com/" target={"blank"}>Instagram</a>
+            <a href="https://github.com/" target={"blank"}>Github</a>
         </div>
     </div>
   </footer>
